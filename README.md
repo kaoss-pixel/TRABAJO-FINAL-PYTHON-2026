@@ -38,6 +38,13 @@ Esta base de datos pertenece a la empresa telcom comunicaciones, una empresa de 
 ![Item9](item9.jpg).
 
 
+**Link importante**
+*Aplicación Streamlit*
+
+https://trabajo-final-python-2026-y9arvwtn4ohnu2acdxathv.streamlit.app/
+
+
+
 
 
 
