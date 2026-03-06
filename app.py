@@ -77,6 +77,7 @@ elif opcion=="ítem 1":
         st.markdown("Tipo de datos")
         cuadro1=df.dtypes.reset_index()
         cuadro1.columns=["Variable","Tipo de dato"]
+        cuadro1["Tipo de dato"]=cuadro1["Tipo de dato"].astype(str)
         st.dataframe(cuadro1)
         st.markdown("Valores nulos")
         cuadro2=df.isnull().sum().reset_index()
